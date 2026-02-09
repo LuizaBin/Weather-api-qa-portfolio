@@ -11,5 +11,5 @@ This repository contains API testing artifacts for the Taskflow project.
 ## How to Use
 
 1. Import `Postman_Collections/Taskflow_API_Testing.postman_collection.json` into Postman.
-2. Configure environment variables (if any) and run the collection.
+2. Configure environment variables (API key)  and run the collection.
 3. Refer to `Test_Cases/Taskflow_API_Test_Cases.xlsx` for detailed test cases.
